@@ -1,0 +1,17 @@
+{
+    "name": "merummer/random-bool",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Merummer\\RandomBool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Melissa Maria Rummer",
+            "email": "mrummer@schueler.hakzell.at"
+        }
+    ],
+    "require": {}
+}
