@@ -10,6 +10,7 @@ class Rand
 
     public function getBool(): bool{
         $rn = rand(0,1);
+        // Veränderung
         return $rn === 1;
     }
 }
